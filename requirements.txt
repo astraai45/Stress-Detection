@@ -1,0 +1,7 @@
+streamlit==1.17.0
+numpy==1.23.5
+opencv-python==4.6.0.66
+deepface==0.0.31
+tensorflow==2.10.0
+librosa
+pandas
